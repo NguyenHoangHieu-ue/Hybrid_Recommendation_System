@@ -45,7 +45,8 @@ Dự án tập trung vào việc cá nhân hóa trải nghiệm mua sắm bằng
 ├── .env                  		 # Thông tin cấu hình database (không upload)
 ├── hybrid_recommendation_system.ipynb   # File source code chính
 ├── README.md             		 # Hướng dẫn dự án
-└── requirements.txt      		 # Các thư viện cần thiết
+├── requirements.txt      		 # Các thư viện cần thiết
+└── data/				 # Folder chứa các file data
 ```
 
 ## Hướng dẫn cài đặt
